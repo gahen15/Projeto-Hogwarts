@@ -1,0 +1,1 @@
+select nm_professor, dt_nascimento_professor  from t_professor;
